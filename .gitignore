@@ -79,10 +79,10 @@ Content/MAEOakForest/Maps/Map_Oak_Forest_A.umap
 Content/CitySampleVehicles/AssetGuidelines
 Content/CitySampleVehicles/Input
 Content/CitySampleVehicles/Map
-Content/CitySampleVehicles/Material
+# Content/CitySampleVehicles/Material
 Content/CitySampleVehicles/vehicle01_Van
 Content/CitySampleVehicles/vehicle02_Car
-Content/CitySampleVehicles/vehicle03_Car
+# Content/CitySampleVehicles/vehicle03_Car
 Content/CitySampleVehicles/vehicle05_Car
 Content/CitySampleVehicles/vehicle06_Car
 Content/CitySampleVehicles/vehicle07_Car
@@ -95,3 +95,4 @@ Content/CitySampleVehicles/vehicle12_Car
 Content/CitySampleVehicles/vehicle13_Car
 
 
+Content/CitySampleVehicles/Material/MaterialLayer/Textures/T_Plastic_Micro_03_N.uasset
