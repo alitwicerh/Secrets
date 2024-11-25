@@ -76,8 +76,8 @@ DerivedDataCache/*
 
 Content/MAEOakForest/Maps/Map_Oak_Forest_A.umap
 
-Content/CitySampleVehicles/AssetGuidelines
-Content/CitySampleVehicles/Input
+# Content/CitySampleVehicles/AssetGuidelines
+# Content/CitySampleVehicles/Input
 Content/CitySampleVehicles/Map
 # Content/CitySampleVehicles/Material
 Content/CitySampleVehicles/vehicle01_Van
